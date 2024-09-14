@@ -1,2 +1,3 @@
 - [Networked Thought](https://jzhao.xyz/posts/networked-thought)
-- 
+- [Tom Critchlow. Move. Think. Create.](https://tomcritchlow.com/wiki/)
+	- ![[Pasted image 20240914142015.png]]
