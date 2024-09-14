@@ -5,7 +5,7 @@ tags:
   - "#evergreen"
 ---
 
-これは Satoshi Nitawaki のDigital Gardenです。
+これは [Satoshi Nitawaki](https://nitaking.omg.lol/ ) のDigital Gardenです。
 
 個人のウィキのようなものです。コンセプトはこちらを見ると良いかもしれません。
 https://joelhooks.com/digital-garden
