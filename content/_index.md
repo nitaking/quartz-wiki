@@ -11,3 +11,6 @@ tags:
 https://joelhooks.com/digital-garden
 
 でも、一般的な[個人ブログ](https://www.nitaking.dev)も構築しています。
+
+- [list](/list)
+- [thoughts](/thoughts)
