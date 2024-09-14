@@ -1,3 +1,5 @@
 - [Networked Thought](https://jzhao.xyz/posts/networked-thought)
 - [Tom Critchlow. Move. Think. Create.](https://tomcritchlow.com/wiki/)
-	- ![[Pasted image 20240914142015.png]]
+- [How to set up your own digital garden - Ness Labs](https://nesslabs.com/digital-garden-set-up)
+- [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
+- 
