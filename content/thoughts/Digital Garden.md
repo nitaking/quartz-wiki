@@ -2,4 +2,5 @@
 - [Tom Critchlow. Move. Think. Create.](https://tomcritchlow.com/wiki/)
 - [How to set up your own digital garden - Ness Labs](https://nesslabs.com/digital-garden-set-up)
 - [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
+- [Software design principles applied to digital gardening - My second-brain](https://anthonyamar.fr/Digital+garden/Software+design+principles+applied+to+digital+gardening)
 - 
