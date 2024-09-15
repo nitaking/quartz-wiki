@@ -1,10 +1,14 @@
+---
+tags:
+  - tool
+---
 
 # eraser.io
 [app.eraser.io](http://app.eraser.io/)
-https://x.com/nitaking_/status/1800411639646429542
+
+![](https://twitter.com/nitaking_/status/1800411639646429542)
 
 ![[Pasted image 20240915185641.png]]
-# Eracer
 
 - Diagram as Code
   - Editorが優秀

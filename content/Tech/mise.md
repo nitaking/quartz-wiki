@@ -1,21 +1,25 @@
+---
+tags:
+  - cli
+---
 # Migrate `asdf` to mise
 
 Read [Getting Started | mise-en-place](https://mise.jdx.dev/getting-started.html)
 
 1) Install `mise` by Homebrew: [Getting Started | mise-en-place](https://mise.jdx.dev/getting-started.html#homebrew)
-```shell
-brew install mise
-```
+	```shell
+	brew install mise
+	```
 
 2) Activate for zsh
    Activate according to the docs.
-```zsh
-echo 'eval "$(~/.local/bin/mise activate zsh)"' >> ~/.zshrc
-```
+	```zsh
+	echo 'eval "$(~/.local/bin/mise activate zsh)"' >> ~/.zshrc
+	```
 
 3) mise install
-```zsh
-mise install
+	```zsh
+	mise install
 ```
 
 ```

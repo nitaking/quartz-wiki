@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Product Engineer
 draft: false
 tags:
   - "#evergreen"
@@ -7,20 +7,17 @@ tags:
 
 これは [Satoshi Nitawaki](https://nitaking.omg.lol/ ) のDigital Gardenです。
 
-個人のウィキのようなものです。コンセプトはこちらを見ると良いかもしれません。
-https://joelhooks.com/digital-garden
+> [!info] Digital Garden
+> 
+> 個人のウィキのようなものです。コンセプトはこちらなどを参照しています。<br>
+> 👉 [🌱 My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
+> | [[Digital Garden]]
 
-でも、一般的な[個人ブログ](https://www.nitaking.dev)も構築しています。
+[Blog](https://www.nitaking.dev)  
+General writing and opinions.
 
-- [list](/list)
-	- [[Version Manage]]
-	- [[Awesome Tools]]
-	- [[[Draw Tool]]]
-	- [[micro.blog]]
-	- [[git]]
-- [thoughts](/thoughts)
-	- [[Digital Garden]]
-
+**Online**  
+[Micro.blog](https://nitaking.micro.blog/) | [About](https://www.nitaking.dev/about/)
+ | [Bento](https://bento.me/nita) | [Glass](https://glass.photo/nitaking) | 
 ## TODO 
-- [ ] [Explorer](https://quartz.jzhao.xyz/features/explorer)のOn
 - [ ] Sync Omnivore to Obsidian(Digital Garden) 

@@ -1,4 +1,10 @@
+---
+tags:
+  - cheatsheet
+---
 ## Refresh change to .gitignore
+
+ユースケース：.gitignoreの変更後に変更を反映させたい。
 
 ```zsh
 git rm -r --cached .

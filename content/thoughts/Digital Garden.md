@@ -1,6 +1,11 @@
+---
+tags:
+  - evergreen
+  - thoughts
+  - list
+---
 
-現在、[[obsidian]]でmarkdown管理し、[Quartz](https://github.com/jackyzha0/quartz)でコンテンツ展開している。
-ファイルツリーがほしいので、変更するかもしれない。
+現在、[[obsidian]]でmarkdown管理し、[Quartz](https://github.com/jackyzha0/quartz)でコンテンツ展開している。 ([[quartz]])
 
 ## 理解の参考になるリスト
 | Site                                                                                       | Note                         |
