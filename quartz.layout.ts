@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { GitHubFlavoredMarkdown } from "./quartz/plugins"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -8,8 +9,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      Source: "https://github.com/nitaking/quartz-wiki",
+      Profile: "https://nitaking.omg.lol",
+      // TODO:  Add digital garden profile link
+      // Profile:
     },
   }),
 }
