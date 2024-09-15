@@ -1,10 +1,10 @@
 ---
-title: Product Engineer
+title: Satoshi Nitawaki
 draft: false
 tags:
   - "#evergreen"
 ---
-
+# Product Engineer and Tool Geek
 これは [Satoshi Nitawaki](https://nitaking.omg.lol/ ) のDigital Gardenです。
 
 > [!info] Digital Garden
