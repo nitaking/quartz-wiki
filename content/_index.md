@@ -21,3 +21,4 @@ General writing and opinions.
  | [Bento](https://bento.me/nita) | [Glass](https://glass.photo/nitaking) | 
 ## TODO 
 - [ ] Sync Omnivore to Obsidian(Digital Garden) 
+- [ ] [giscus](https://quartz.jzhao.xyz/features/comments)の有効化
