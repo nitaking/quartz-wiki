@@ -1,5 +1,5 @@
 ---
-title: Digital Garden
+title: Home
 draft: false
 tags:
   - "#evergreen"
@@ -17,3 +17,7 @@ https://joelhooks.com/digital-garden
 	- [[Awesome Tools]]
 - [thoughts](/thoughts)
 	- [[Digital Garden]]
+
+## TODO 
+- [ ] [Explorer](https://quartz.jzhao.xyz/features/explorer)のOn
+- [ ] Sync Omnivore to Obsidian(Digital Garden) 
