@@ -15,6 +15,9 @@ https://joelhooks.com/digital-garden
 - [list](/list)
 	- [[Version Manage]]
 	- [[Awesome Tools]]
+	- [[[Draw Tool]]]
+	- [[micro.blog]]
+	- [[git]]
 - [thoughts](/thoughts)
 	- [[Digital Garden]]
 
