@@ -20,7 +20,7 @@ tags:
 
 > [!warning]  
 > >
-> `Quartz@4.3.1`上では表示されないので注意。
+> `Quartz @4.3.1`上では表示されないので注意。
 
 - twitter.com
 	![](https://twitter.com/nitaking_/status/1800411639646429542)
