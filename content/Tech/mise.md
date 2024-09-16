@@ -19,16 +19,17 @@ Read [Getting Started | mise-en-place](https://mise.jdx.dev/getting-started.html
 
 3) mise install
 	```zsh
-	mise install
-```
+		mise install
+	```
 
-```
+
+```zsh
 $ mise use --global node@20 $ node -v v20.x.x
 ```
 
 ## Note: check asdf list
 
-```
+```zsh
 # asdf list
 go-sdk
   No versions installed
