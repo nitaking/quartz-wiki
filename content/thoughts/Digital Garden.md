@@ -4,7 +4,7 @@ tags:
   - thoughts
   - list
 ---
-[[micro.blog]]を始めたとした、IndieWebに興味を持つ内に、Digital Gardenというワードを知りました。
+[[micro.blog]]を始めとした、IndieWebに興味を持つ内に、Digital Gardenというワードを知りました。
 現在、[[obsidian]]でmarkdown管理し、[Quartz](https://github.com/jackyzha0/quartz)でコンテンツ展開しています。 See also: [[quartz]]
 
 ## お気に入りリスト
