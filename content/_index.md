@@ -4,8 +4,8 @@ draft: false
 tags:
   - "#evergreen"
 ---
-# Product Engineer and Tool Geek
-これは [Satoshi Nitawaki](https://nitaking.omg.lol/ ) のDigital Gardenです。
+# Personal Wiki
+[Satoshi Nitawaki](https://nitaking.omg.lol/ ) の個人のWikiです。
 
 > [!info] Digital Garden
 > 

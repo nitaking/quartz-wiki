@@ -45,17 +45,21 @@ tags:
 - Enpass
 - Toggl
 - Things
-- TuexDuex
+- TeuxDeux
 - DeepL
 - Obsidian
 - Raycast
 - UpNote
 - AI
 	- ChatGPT
-	- Claud
+	- Claude
 	- Perplexity
 - Omnivore
 - TimeTree
+- Toggl
+- Spotify
+- Ghost with Pikapod
+- 
 ### Trial
 - OFFLIGHT
 - Portal app
@@ -64,6 +68,7 @@ tags:
 - Goodreads
 - [OrbStack](https://orbstack.dev/): Fast, light, simple Docker
 - Zed
+- [[Height]]
 ### Hold
 - Amie
 - mood
