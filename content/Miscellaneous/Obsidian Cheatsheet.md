@@ -26,3 +26,9 @@ tags:
 	![](https://twitter.com/nitaking_/status/1800411639646429542)
 - x.com
 	![](https://x.com/nitaking_/status/1800411639646429542)
+
+## Set Folder Path
+
+`File and links > Default location for new attachments`
+
+See also: https://forum.obsidian.md/t/add-images-folder/3856
