@@ -8,13 +8,18 @@ tags:
 
 [now](https://nownownow.com/about) ページのように、人々が所有しているものについてまとめているページです。
 
+## Editor
 
-## Everyday
-- iPhone 15 Pro
+- [[Intellij]]: 僕は熱狂的なIntellijユーザーなので...
+	- WebStorm
+	- Android Studio
+	- Goland
+	- DataGrip
+- VSCode: Live Shareやライトな用途で使用。
 
 ## Hardware
-
-- M1 Macbook Air 1TB
+- iPhone 15 Pro: 256GB
+- M1 Macbook Air, 16GB, 1TB
 - [HHKB Professional HYBRID Type-S 無刻印／雪（US）｜PFUダイレクト](https://www.pfu.ricoh.com/direct/hhkb/detail_pd-kb800yns.html?_gl=1*kyaskl*_gcl_au*MTE1ODE2MzY3NS4xNzI2NDIwMDE0*_ga*MTIyOTIwMTIyOS4xNzI2NDIwMDE0*_ga_Z9QFWQM6HK*MTcyNjQyMDAxNC4xLjAuMTcyNjQyMDAxNC42MC4wLjA.*_ga_5SB6G0ZRSB*MTcyNjQyMDAxNC4xLjAuMTcyNjQyMDAxNC4wLjAuMA..)
 - Camera / Lens
 	- Richo GR3x
@@ -26,11 +31,6 @@ tags:
 ## Software
 - [[Workflowy]]: #PKM 
 - [[Notion]]: #PIM
-- [[Intellij]]
-	- WebStorm
-	- Android Studio
-	- Goland
-	- DataGrip
 - #Photography
 	- [[Photomator]]
 	- X App
@@ -85,4 +85,8 @@ tags:
 - Cody
 - Intellij AI Assistant
 - Aura Ring: 課金停止をトライアル中
-- 
+
+---
+## 他の人のUsesリスト
+
+- [Uses - Just Some Dev](https://www.nickyt.co/pages/uses/)
