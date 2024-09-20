@@ -1,6 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import { GitHubFlavoredMarkdown } from "./quartz/plugins"
+// import { GitHubFlavoredMarkdown } from "./quartz/plugins"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -34,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
       Component.Explorer({
         title: "Explorer", // title of the explorer component
         folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-        folderDefaultState: "open", // default state of folders ("collapsed" or "open")
+        folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
         useSavedState: false, // whether to use local storage to save "state" (which folders are opened) of explorer
         // Sort order: folders first, then files. Sort folders and files alphabetically
         filterFn: (node) => node.name !== "tags", // filters out 'tags' folder

@@ -12,7 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "tinylytics", siteId: 'U9qfcSxsEP_izZvF-UUN'
+      provider: "umami",
+      websiteId: "319f4b8d-ff75-4670-9004-52fb9c1e9fe7",
     },
     locale: "ja-JP",
     baseUrl: "wiki.nitaking.dev",

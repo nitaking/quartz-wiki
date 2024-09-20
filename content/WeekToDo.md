@@ -1,0 +1,1 @@
+-  https://weektodo.me/ja/
