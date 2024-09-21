@@ -1,0 +1,20 @@
+---
+tags:
+  - tool
+  - draw
+---
+https://excalidraw.com/
+
+次のような手書き風の絵が簡単に作成できる。
+OSSのアーキテクチャ図などはこれでよいと思う。
+
+![[Pasted image 20240921165427.png]]
+
+- アカウント不要。Free運用可能。
+	- 1ファイルだけ。
+	- E2EEで、リアルタイム編集可能リンクが発行可能
+- ローカルファイル保存可能
+
+Obsidianプラグインが存在し、Vaultsに .excalidraw ファイルを作成し、編集ができる
+[zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)
+![[Pasted image 20240921171337.png]]

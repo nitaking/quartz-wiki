@@ -3,3 +3,7 @@
 ```serve.sh
 npx quartz build --serve
 ```
+
+```sync.sh
+npx quartz sync --no-pull
+```

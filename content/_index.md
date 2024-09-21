@@ -7,18 +7,26 @@ tags:
 # Personal Wiki
 [Satoshi Nitawaki](https://nitaking.omg.lol/ ) の個人のWikiです。
 
-> [!info] Digital Garden
-> 
-> 個人のウィキのようなものです。コンセプトはこちらなどを参照しています。<br>
-> 👉 [🌱 My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
-> | [[Digital Garden]]
-
 [Blog](https://www.nitaking.dev)  
 General writing and opinions.
 
 **Online**  
 [Micro.blog](https://nitaking.micro.blog/) | [About](https://www.nitaking.dev/about/)
- | [Bento](https://bento.me/nita) | [Glass](https://glass.photo/nitaking) | 
-## TODO 
-- [ ] Sync Omnivore to Obsidian(Digital Garden) 
-- [ ] [giscus](https://quartz.jzhao.xyz/features/comments)の有効化
+ | [Bento](https://bento.me/nita) | [Glass](https://glass.photo/nitaking) 
+
+**Sitemap**
+- [[app]]
+- [[tags/tool]]
+	- [[Draw Tool]]
+- [[tags/productivity]]
+- [[Uses]]
+- [[Tech]]
+- [[Miscellaneous]]
+
+---
+
+
+> [!info] Digital Garden
+> 
+> 個人のウィキのようなものです。コンセプトは [🌱 My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) などを参照しています。<br>
+> 👉 [[Digital Garden]]

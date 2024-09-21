@@ -3,13 +3,7 @@ draft: true
 tags:
   - evergreen
 ---
-## 要望
 
-#### ArcのSide Menuが開いている状態でもPC判定されたい
-
-Zoom 100% & Side Menuが開いている状態はPC（Desktop）判定されたい。
-viewportで判定されていないのか？
-Explorerは表示されていたい・・・。（Zoom 90%なら表示される）
 
 ![[CleanShot 2024-09-16 at 02.56.21@2x.png]]
 ## Explorer

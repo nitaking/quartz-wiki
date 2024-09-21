@@ -1,6 +1,8 @@
 ---
 tags:
   - productivity
+  - planner
+  - tool
 ---
 
 Alternative [[TeuxDeux]] となるかも。

@@ -2,6 +2,7 @@
 tags:
   - planner
   - task
+  - productivity
 ---
 - [Purelist](https://purelist.com/)
 
