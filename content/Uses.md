@@ -2,7 +2,6 @@
 tags:
   - list
 ---
-## Usesページとはなんですか？
 
 > [Do you have a "uses" page?](https://dev.to/nickytonline/do-you-have-a-uses-page-5b82)
 
