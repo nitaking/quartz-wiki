@@ -17,4 +17,3 @@ OSSのアーキテクチャ図などはこれでよいと思う。
 
 Obsidianプラグインが存在し、Vaultsに .excalidraw ファイルを作成し、編集ができる
 [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)
-![[Pasted image 20240921171337.png]]
