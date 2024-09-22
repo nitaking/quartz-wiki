@@ -8,3 +8,4 @@ id: f4a4b562-5ed6-4d21-97fe-6e8641f47b02
 [Read on Omnivore](https://omnivore.app/me/ai-perplexity-19030a8e45e)
 [Read Original](https://note.com/yriica/n/n2359ea774c4d)
 
+

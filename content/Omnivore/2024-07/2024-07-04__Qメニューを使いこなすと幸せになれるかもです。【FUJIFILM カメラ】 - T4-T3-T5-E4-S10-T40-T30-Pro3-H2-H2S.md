@@ -8,3 +8,8 @@ id: c410a30c-b9e3-4579-a6c9-494ac78e6e7c
 [Read on Omnivore](https://omnivore.app/me/https-www-youtube-com-watch-v-bu-aj-m-28-l-tw-4-1907c241735)
 [Read Original](https://www.youtube.com/watch?v=BUAjM28LTw4)
 
+## Notes
+
+FUJIの操作。X-H2
+
+

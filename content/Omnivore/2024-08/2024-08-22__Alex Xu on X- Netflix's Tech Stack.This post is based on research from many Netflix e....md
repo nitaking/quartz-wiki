@@ -8,3 +8,7 @@ id: 912dd187-7018-449d-9260-dc227ea7514d
 [Read on Omnivore](https://omnivore.app/me/https-x-com-alexxubyte-status-1816486441180164516-19178c3927a)
 [Read Original](https://x.com/alexxubyte/status/1816486441180164516)
 
+## Notes
+
+Netflixのtech stack
+

@@ -8,3 +8,4 @@ id: 9ac5ff77-1bd3-472c-9b42-3115d34c9139
 [Read on Omnivore](https://omnivore.app/me/memory-ice-cubes-18f9a69405f)
 [Read Original](https://leaysgur.github.io/posts/2022/11/02/102525)
 
+

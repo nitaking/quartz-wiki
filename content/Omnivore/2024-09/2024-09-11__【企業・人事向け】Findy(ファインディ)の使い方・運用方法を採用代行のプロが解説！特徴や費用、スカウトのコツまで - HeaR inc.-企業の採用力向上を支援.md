@@ -8,3 +8,8 @@ id: 7fde2242-88bd-4086-a9fa-e061b4cb7a22
 [Read on Omnivore](https://omnivore.app/me/https-www-hear-co-jp-recruit-findy-about-191df3277ce)
 [Read Original](https://www.hear.co.jp/recruit/findy-about)
 
+## Notes
+
+Findyに関する報酬形態の調べ
+
+

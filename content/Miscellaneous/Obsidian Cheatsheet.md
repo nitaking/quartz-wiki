@@ -2,7 +2,7 @@
 tags:
   - cheatsheet
 ---
-
+関連: [[Obsidian]]
 ## Edit Properties
 
 > - Use the **Add file property** [command](https://help.obsidian.md/Plugins/Command+palette).
