@@ -20,6 +20,13 @@ EU県内の個人データ保護を目的とした法律。2018年5月に施行�
 
 **代替ツール**
 
+- [[Tinybird]]
+  [Build a GDPR-compliant alternative to Google Analytics · Tinybird](https://www.tinybird.co/docs/live/google-analytics-free)
+- [[Tinylytics]]
+  > _GDPR_-compliant with no cookies or user-identifiable data storage. Securely hosted in Europe for your peace of mind. Learn more here on how we handle unique ...
+  > [tinylytics Privacy & Data Protection](https://eu-software.com/alternatives/tinylytics/)
+  > 
+  
 
 ## Reference
 - [GDPRとは？　個人情報保護法との違いや日本企業が注意すべき点 | ELEMINIST（エレミニスト）](https://eleminist.com/article/3127)

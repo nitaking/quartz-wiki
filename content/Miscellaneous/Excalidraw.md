@@ -8,7 +8,7 @@ https://excalidraw.com/
 次のような手書き風の絵が簡単に作成できる。
 OSSのアーキテクチャ図などはこれでよいと思う。
 
-![[Pasted image 20240921165427.png]]
+![[excalidraw-2.png]]
 
 - アカウント不要。Free運用可能。
 	- 1ファイルだけ。

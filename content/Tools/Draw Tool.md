@@ -8,7 +8,7 @@ tags:
 
 ![](https://twitter.com/nitaking_/status/1800411639646429542)
 
-![[Pasted image 20240915185641.png]]
+![[eracer.png]]
 
 - Diagram as Code
   - Editorが優秀

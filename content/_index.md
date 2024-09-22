@@ -17,8 +17,9 @@ General writing and opinions.
 **Sitemap**
 - [[Uses]]
 - [[Tech]]
+- [[Photography]]
+- [[Tools]]
 - [[Miscellaneous]]
-- [[tags/productivity]]
 
 ---
 

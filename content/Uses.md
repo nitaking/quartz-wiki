@@ -21,8 +21,8 @@ tags:
 - M1 Macbook Air, 16GB, 1TB
 - [HHKB Professional HYBRID Type-S 無刻印／雪（US）｜PFUダイレクト](https://www.pfu.ricoh.com/direct/hhkb/detail_pd-kb800yns.html?_gl=1*kyaskl*_gcl_au*MTE1ODE2MzY3NS4xNzI2NDIwMDE0*_ga*MTIyOTIwMTIyOS4xNzI2NDIwMDE0*_ga_Z9QFWQM6HK*MTcyNjQyMDAxNC4xLjAuMTcyNjQyMDAxNC42MC4wLjA.*_ga_5SB6G0ZRSB*MTcyNjQyMDAxNC4xLjAuMTcyNjQyMDAxNC4wLjAuMA..)
 - Camera / Lens
-	- Richo GR3x
-	- Fujifilm X-H2
+	- Richo [[GR IIIx]]
+	- Fujifilm [[X-H2]]
 	- [XF50mmF2 R WR](https://fujifilm-x.com/ja-jp/products/lenses/xf50mmf2-r-wr/)
 	- [XF16-80mmF4 R OIS WR](https://fujifilm-x.com/ja-jp/products/lenses/xf16-80mmf4-r-ois-wr/)
 - [CIO SMARTCOBY Pro SLIM CABLE 35W2C](https://connectinternationalone.co.jp/cioproduct/mobilebattery/smartcoby/cio-mb35w2c-10000-sc/)

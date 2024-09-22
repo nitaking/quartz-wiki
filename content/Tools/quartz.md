@@ -5,7 +5,7 @@ tags:
 ---
 
 
-![[CleanShot 2024-09-16 at 02.56.21@2x.png]]
+![[quartz.png]]
 ## Explorer
 ### 
 

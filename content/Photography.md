@@ -1,3 +1,8 @@
+<center>
+<img src=photography-hero.jpeg width=480 />
+<i><p>Photo by <a href="https://glass.photo/nitaking">Satoshi Nitawaki</a> on <a href="https://glass.photo/nitaking/3WXz2eDN8v7nlixY4quSiU">Glass</a></p></i>
+</center>
+
 
 昔から記録することが好きでした。印象的な思い出は、10歳くらいのときに実家にあるデジタルカメラで、夜ふかし後の朝日を撮ったことです。はじめて見た景色を残せることに興奮したことを覚えています。
 
@@ -13,4 +18,5 @@
 妻と猫（テト）、友人たち、そして撮る自分、みんなの瞬間を残していけたらなぁと思っています。
 
 - [Glass](https://glass.photo/nitaking)
-- [Unsplash](https://unsplash.com/ja/@sa_nitawaki) 投稿していこうかなと思います
+- [Unsplash](https://unsplash.com/ja/@sa_nitawaki) これから投稿していこうかなと思います
+- [Instagram](https://www.instagram.com/nitastagram_photo/) 
