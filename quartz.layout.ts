@@ -35,7 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
         title: "Explorer", // title of the explorer component
         folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
         // folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
-        useSavedState: false, // whether to use local storage to save "state" (which folders are opened) of explorer
+        // useSavedState: false, // whether to use local storage to save "state" (which folders are opened) of explorer
         // Sort order: folders first, then files. Sort folders and files alphabetically
         filterFn: (node) => node.name !== "tags", // filters out 'tags' folder
         // mapFn: undefined,
@@ -64,7 +64,7 @@ export const defaultListPageLayout: PageLayout = {
         title: "Explorer", // title of the explorer component
         folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
         // folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
-        useSavedState: false, // whether to use local storage to save "state" (which folders are opened) of explorer
+        // useSavedState: false, // whether to use local storage to save "state" (which folders are opened) of explorer
         // Sort order: folders first, then files. Sort folders and files alphabetically
         filterFn: (node) => node.name !== "tags", // filters out 'tags' folder
         // mapFn: undefined,

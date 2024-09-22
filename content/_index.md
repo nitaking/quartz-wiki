@@ -5,23 +5,20 @@ tags:
   - "#evergreen"
 ---
 # Personal Wiki
-[Satoshi Nitawaki](https://nitaking.omg.lol/ ) の個人のWikiです。
+[Satoshi Nitawaki](https://nitaking.omg.lol/ ) です。
 
 [Blog](https://www.nitaking.dev)  
 General writing and opinions.
 
-**Online**  
+**Online**
 [Micro.blog](https://nitaking.micro.blog/) | [About](https://www.nitaking.dev/about/)
- | [Bento](https://bento.me/nita) | [Glass](https://glass.photo/nitaking) 
+ | [GitHub](https://github.com/nitaking)
 
 **Sitemap**
-- [[app]]
-- [[tags/tool]]
-	- [[Draw Tool]]
-- [[tags/productivity]]
 - [[Uses]]
 - [[Tech]]
 - [[Miscellaneous]]
+- [[tags/productivity]]
 
 ---
 
