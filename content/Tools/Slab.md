@@ -5,10 +5,13 @@ tags:
 ---
 [Slab - Knowledge Base & Wiki Software](https://slab.com/)
 
+## Notionとの比較表
+
 ![[slab-compare-notion.png]]
 > *https://slab.com/alternative-to/notion/ 
 
-**特徴**
+## 特徴
+
 古いドキュメントかどうか検証する仕組みとして [Verification](https://help.slab.com/en/articles/4136379-post-verification) がある。検証期間が過ぎると記事に表示され、検証者に通知が行くというもの。素晴らしい。Notionで運用していたらよく発生していたので、助かる。
 ![[slab-verify.png]]
 
@@ -17,7 +20,8 @@ tags:
 ピン留めもできるので、閲覧性に問題はなさそう。
 ![[slab-ux-preview.gif]]
 
-**Template機能が強力**
+### **Template機能が強力**
+
 Template機能はよくあるものだが、内容が他社の具体的なテンプレートを題材としており、Notionほど汎化せず、社内Wikiに特化しているのが垣間見える。
 ![[slab-template.png]]
 
@@ -26,5 +30,6 @@ Template機能はよくあるものだが、内容が他社の具体的なテン
 
 ---
 
-**発見経路**
+## **発見経路**
+
 [[Height]]のIntegration先から発見。
