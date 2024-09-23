@@ -1,3 +1,3 @@
 - RSSリーダー
 	- [[Feedly]]
-	- [[Read It later]]
+	- [[/Omnivore]]
