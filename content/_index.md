@@ -1,11 +1,10 @@
 ---
-title: Satoshi Nitawaki
 draft: false
 tags:
   - "#evergreen"
+title: Satoshi Nitawaki
 ---
-# Personal Wiki
-[Satoshi Nitawaki](https://nitaking.omg.lol/ ) です。
+[Satoshi Nitawaki](https://nitaking.omg.lol/ ) です。Product Engineerとして
 
 [Blog](https://www.nitaking.dev)  
 General writing and opinions.

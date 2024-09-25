@@ -3,9 +3,16 @@ tags:
   - evergreen
   - thoughts
   - list
+  - seed
 ---
 [[micro.blog]]を始めとした、IndieWebに興味を持つ内に、Digital Gardenというワードを知りました。
 現在、[[Obsidian]] でmarkdown管理し、[Quartz](https://github.com/jackyzha0/quartz)でコンテンツ展開しています。
+
+## 自分なりの運用
+
+- 小さい、まとまっていないものは `#seed` をつけ、`thoughts/`フォルダに配置する。迷ったらここにすべて配置するInbox。
+  > 参考: https://jzhao.xyz/tags/Seed
+
 
 ## お気に入りリスト
 
@@ -34,3 +41,7 @@ tags:
 ## List of List
 - [My workflow in writing and maintaining this wiki | Everything I Know](https://wiki.nikiv.dev/other/wiki-workflow)
 - [Digital garden inspirations - My second-brain](https://anthonyamar.fr/Digital+garden/Digital+garden+inspirations)
+
+## 実装したいこと
+- [ ] 手書きフォントの適用
+      https://jzhao.xyz/ のような手書きフォントの適用

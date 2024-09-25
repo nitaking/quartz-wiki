@@ -1,3 +1,0 @@
-- RSSリーダー
-	- [[Feedly]]
-	- [[/Omnivore]]
