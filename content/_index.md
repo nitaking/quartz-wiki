@@ -4,7 +4,7 @@ tags:
   - "#evergreen"
 title: Satoshi Nitawaki
 ---
-[Satoshi Nitawaki](https://nitaking.omg.lol/ ) です。Product Engineerとして
+[Satoshi Nitawaki](https://nitaking.omg.lol/ ) です。Product Engineerです。
 
 [Blog](https://www.nitaking.dev)  
 General writing and opinions.
