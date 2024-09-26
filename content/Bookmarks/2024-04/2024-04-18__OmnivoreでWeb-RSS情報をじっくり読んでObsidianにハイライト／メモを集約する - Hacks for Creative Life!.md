@@ -2,11 +2,10 @@
 id: 3cfb1d4d-65ce-49bd-966e-1d7f39dd026b
 ---
 
-# OmnivoreでWeb/RSS情報をじっくり読んでObsidianにハイライト／メモを集約する | Hacks for Creative Life!
+## `OmnivoreでWeb/RSS情報をじっくり読んでObsidianにハイライト／メモを集約する | Hacks for Creative Life!`
 #Omnivore
 
-[Read on Omnivore](https://omnivore.app/me/omnivore-web-rss-obsidian-hacks-for-creative-life-18ef14b3ccf)
-[Read Original](https://hacks.beck1240.com/web-services/app/12354/)
+[Read on Omnivore](https://omnivore.app/me/omnivore-web-rss-obsidian-hacks-for-creative-life-18ef14b3ccf) / [Read Original](https://hacks.beck1240.com/web-services/app/12354/)
 
 
 ## Highlights

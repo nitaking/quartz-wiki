@@ -2,11 +2,10 @@
 id: 67189450-b9e1-4f75-a678-bcc00ed8f1bc
 ---
 
-# 小さなカメラと「今」を楽しむVlog撮影｜pitaco｜LUMIX Magazine
+## `小さなカメラと「今」を楽しむVlog撮影｜pitaco｜LUMIX Magazine`
 #Omnivore
 
-[Read on Omnivore](https://omnivore.app/me/vlog-pitaco-lumix-magazine-190f340b909)
-[Read Original](https://note.com/lumix_magazine/n/nbe6a0f48faee)
+[Read on Omnivore](https://omnivore.app/me/vlog-pitaco-lumix-magazine-190f340b909) / [Read Original](https://note.com/lumix_magazine/n/nbe6a0f48faee)
 
 
 ## Highlights

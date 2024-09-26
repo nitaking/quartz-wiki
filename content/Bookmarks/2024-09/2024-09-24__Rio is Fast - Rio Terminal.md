@@ -2,11 +2,10 @@
 id: e077a425-98c6-4eef-a79c-035dc0bc715d
 ---
 
-# Rio is Fast | Rio Terminal
+## `Rio is Fast | Rio Terminal`
 #Omnivore
 
-[Read on Omnivore](https://omnivore.app/me/rio-is-fast-rio-terminal-1922437783e)
-[Read Original](https://raphamorim.io/rio/ja/docs/features/rio-is-fast/)
+[Read on Omnivore](https://omnivore.app/me/rio-is-fast-rio-terminal-1922437783e) / [Read Original](https://raphamorim.io/rio/ja/docs/features/rio-is-fast/)
 
 ## Notes
 

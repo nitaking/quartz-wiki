@@ -2,11 +2,10 @@
 id: 7e1e9240-24e0-4280-8de2-73225e93d0c3
 ---
 
-# 2023年の振り返り | Memory ice cubes
+## `2023年の振り返り | Memory ice cubes`
 #Omnivore
 
-[Read on Omnivore](https://omnivore.app/me/2023-memory-ice-cubes-1921a0a1050)
-[Read Original](https://leaysgur.github.io/posts/2023/12/26/105031/)
+[Read on Omnivore](https://omnivore.app/me/2023-memory-ice-cubes-1921a0a1050) / [Read Original](https://leaysgur.github.io/posts/2023/12/26/105031/)
 
 
 ## Highlights

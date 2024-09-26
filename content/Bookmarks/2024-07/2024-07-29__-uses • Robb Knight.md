@@ -2,11 +2,10 @@
 id: f1bdea19-42b1-405e-a3ad-241e611fc634
 ---
 
-# /uses • Robb Knight
+## `/uses • Robb Knight`
 #Omnivore
 
-[Read on Omnivore](https://omnivore.app/me/uses-robb-knight-190fcdf7eda)
-[Read Original](https://rknight.me/uses/)
+[Read on Omnivore](https://omnivore.app/me/uses-robb-knight-190fcdf7eda) / [Read Original](https://rknight.me/uses/)
 
 ## Notes
 

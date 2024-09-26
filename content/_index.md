@@ -17,8 +17,8 @@ General writing and opinions.
 - [[Uses]]
 - [[Tech]]
 - [[Photography]]
-- [[Tools]]
-- [[Miscellaneous]]
+- [[thoughts/]]
+- [[tags/]]
 
 ---
 
