@@ -1,5 +1,7 @@
-
-
+---
+tags:
+  - mental_model
+---
 # API First / The API Mandate
 
 > 1. すべてのチームは、今後サービスインターフェースを通じてデータや機能を公開する
@@ -22,7 +24,7 @@ ReactはRe-renderingの仕組みがオブジェクトの場合、参照等価で
 
 フロントにおけるユーザーは大抵一人であり、Storeで`User`Storeを管理すると、OOP wayではシングルトンでの実装となります。そうなると、深いネストを持った同一インスタンスがStoreに保存される形となり、Renderingの条件と噛み合いにくくなります。
 
-その解決策としては [Immer]([Introduction to Immer | Immer](https://immerjs.github.io/immer/)) を使って immutable として取り扱うことです。Zustandでは [Immer middleware](https://zustand.docs.pmnd.rs/integrations/immer-middleware) が提供されており、相性がよいです。
+その解決策としては [Immer](https://immerjs.github.io/immer/) を使って immutable として取り扱うことです。Zustandでは [Immer middleware](https://zustand.docs.pmnd.rs/integrations/immer-middleware) が提供されており、相性がよいです。
 
 個人的には言語仕様として相性が悪いものは採用しないほうがシンプルであると考えていますが、その前提でOOP/DDDを採用するなら良いと思います。
 
@@ -36,7 +38,7 @@ ReactはRe-renderingの仕組みがオブジェクトの場合、参照等価で
 - [props がオブジェクト・配列・関数の場合にコンポーネントが再レンダーされる](https://ja.react.dev/reference/react/memo#my-component-rerenders-when-a-prop-is-an-object-or-array "Link for props がオブジェクト・配列・関数の場合にコンポーネントが再レンダーされる")
 - [DDD and react : r/reactjs](https://www.reddit.com/r/reactjs/comments/1ar0g1e/ddd_and_react/)
 
-REST APIを採用している場合、
+
 
 ---
 

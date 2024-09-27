@@ -23,3 +23,6 @@ tags:
 | エコシステム     | 発展中    | 発展中      | 成熟         | 成熟         | 成熟         |
 
 [^1]: perplexityによるまとめ。未検証。 https://www.perplexity.ai/search/https-qwik-dev-docs-qwiknituit-iGiQbdYrQKqRc5pDZLKlOw
+
+## Link
+- [React and Next.js is DEAD — Something New is (Finally) Replacing It (For Good)](https://plainenglish.io/blog/react-and-next-js-is-dead-something-new-is-finally-replacing-it-for-good-c792c48806f6)
