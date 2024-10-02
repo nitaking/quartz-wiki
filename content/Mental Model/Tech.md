@@ -15,7 +15,7 @@ tags:
 - [The API Mandate - Install API Thinking at your Company – API-University](https://api-university.com/blog/the-api-mandate/)
 - [API Mandate: How Jeff Bezos' memo changed software forever](https://konghq.com/blog/enterprise/api-mandate)
 
-# DDDとFrontend（React）
+# OOP way Frontend DDDは利用しない
 
 OOP（オブジェクト志向）とReactは相性が悪く、OOPでのDDDはReactに導入しないほうがよいと考えています。
 
@@ -38,7 +38,17 @@ ReactはRe-renderingの仕組みがオブジェクトの場合、参照等価で
 - [props がオブジェクト・配列・関数の場合にコンポーネントが再レンダーされる](https://ja.react.dev/reference/react/memo#my-component-rerenders-when-a-prop-is-an-object-or-array "Link for props がオブジェクト・配列・関数の場合にコンポーネントが再レンダーされる")
 - [DDD and react : r/reactjs](https://www.reddit.com/r/reactjs/comments/1ar0g1e/ddd_and_react/)
 
+## KISS（Keep it Simple, Stupid）
 
+> Keep it simple stupid.（シンプルで愚鈍にする）[^wiki]
+
+過度な設計や過度な機能。例えば、ブログを書こうとしてブログサイトにこだわりすぎてしまう現象。
+度々やってしまうが、システムにおいてもシンプルに、愚鈍にしておくことを選択肢にもち、よしとする。
+
+過度に時間がかかっているときはKISSを思い出し、解決策とする。
+
+
+[^wiki]: [KISSの原則 - Wikipedia](https://ja.wikipedia.org/wiki/KISS%E3%81%AE%E5%8E%9F%E5%89%87)
 
 ---
 
