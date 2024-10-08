@@ -1,6 +1,7 @@
 ---
 tags:
   - SaaS
+  - seed
 ---
 Alternative firebase, supabase. 
 
