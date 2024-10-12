@@ -46,3 +46,6 @@ highlights.lengthで出力されるループの前に意図的にnoteを取得�
 
 #### Sources
 - [記事のメモが同期されない · 問題 #54 · omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore/issues/54)
+# Plugins
+
+- [obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)

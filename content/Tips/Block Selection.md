@@ -2,6 +2,7 @@
 tags:
   - cheatsheet
 ---
+keywords: 矩形選択
 # WebStorm (Intellij)
 
 > Cmd + Shift + 8 で改行を無視してカーソル移動できるようにした後で必要な箇所を選択
