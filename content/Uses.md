@@ -47,7 +47,7 @@ tags:
 - TeuxDeux
 - DeepL
 - Obsidian
-- Raycast
+- [[Raycast]]
 - UpNote
 - AI
 	- ChatGPT
