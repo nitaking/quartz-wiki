@@ -5,5 +5,7 @@ tags:
   - productivity
   - note
   - seed
-draft: true
+draft: false
 ---
+## Shortcut
+- Toggle On / Off: `Cmd+Option+T`
