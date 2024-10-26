@@ -2,7 +2,8 @@
 tags:
   - social
   - seed
-draft: true
+draft: false
 ---
-## TODO
+- https://micro.blog/
+- https://micro.blog/nitaking
 - [ ] Set Custom domain

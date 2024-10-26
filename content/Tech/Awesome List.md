@@ -20,8 +20,8 @@ tags:
 | webflow | Visualウェブサイトビルダー | [Webflow](https://webflow.com/)<br><br>e.g.: [Notion Second Brain](https://www.pathpages.com/products/notion-second-brain#included) |
 | framer  | Web Site Builder | https://www.framer.com/                                                                                                             |
 ## AI Tools
-| Name                          | UseCase                                  | Link                         |
-| ----------------------------- | ---------------------------------------- | ---------------------------- |
-| [BoltAI](https://boltai.com/) | Al Utility App                           | https://boltai.com/          |
-| FeatureBase                   | Roadmap, User Feedback, ChangelLog, Help | https://www.featurebase.app/ |
-| Canny                         | Roadmap, User Feedback, ChangelLog, Help | https://canny.io/            |
+| Name        | UseCase                                  | Link                         |
+| ----------- | ---------------------------------------- | ---------------------------- |
+| [[BoltAI]]  | ChatGPT desktop tool                     | https://boltai.com/          |
+| FeatureBase | Roadmap, User Feedback, ChangelLog, Help | https://www.featurebase.app/ |
+| Canny       | Roadmap, User Feedback, ChangelLog, Help | https://canny.io/            |
