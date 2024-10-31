@@ -6,11 +6,22 @@ tags:
   - seed
 ---
 [[micro.blog]]を始めとした、IndieWebに興味を持つ内に、Digital Gardenというワードを知りました。
-現在、[[Obsidian]] でmarkdown管理し、[Quartz](https://github.com/jackyzha0/quartz)でコンテンツ展開しています。
-
-## 自分なりの運用
-
-- 小さい、まとまっていないものは `#seed` をつけ、`thoughts/`フォルダに配置する。迷ったらここにすべて配置するInbox。
+## History
+- 2024-9: [[Obsidian]] でmarkdown管理し、[Quartz](https://github.com/jackyzha0/quartz)でコンテンツ展開
+- 2024-10: StyleとThemeやサイドバーのエコシステムをVitePressにしたかったところ、[[nolebase]]を発見し、移行を検討
+	- その結果、次のConsがあったため、[[quartz]]に戻す。
+		- OG-ImageやOG-Descriptionがバグがある状態でリリースされており、不要な対応が生まれてしまう
+		- テキスト検索、特に全文検索[[quartz]]よりも劣る。検索されないページが多い
+		- ビルドパフォーマンスが悪く、1ビルド6秒以上必要のため、Customize作業がDX低い。
+		- あまりコミュニティが発展していない。
+		- デフォルトの対応言語が`zh-CN`であり、`en-US`や`ja-JP`では表示されなかったり機能しないものが存在する。
+		- ドキュメントが英語でない
+		- コンテンツディレクトリがrootであるため、obsidianのvaultsとして扱うとnode_modules等不要なファイルが展開されてしまう。
+		- backlinkがない（あったら地味によかった）
+		- tagsやディレクトリページがない
+	- スタイルや表示については、自力カスタマイズで頑張ると決めた
+## Workflow
+- 小さい、まとまっていないものは `#seed` をつけ、`thoughts/`フォルダに配置する。フォルダリングされないものを入れるInbox。
   > 参考: https://jzhao.xyz/tags/Seed
 
 

@@ -15,9 +15,9 @@ tags:
 - [The API Mandate - Install API Thinking at your Company – API-University](https://api-university.com/blog/the-api-mandate/)
 - [API Mandate: How Jeff Bezos' memo changed software forever](https://konghq.com/blog/enterprise/api-mandate)
 
-# OOP way Frontend DDDは利用しない
+# OOP way Frontend DDDの相性の悪さ
 
-OOP（オブジェクト志向）とReactは相性が悪く、OOPでのDDDはReactに導入しないほうがよいと考えています。
+OOP（オブジェクト志向）とReactは相性が悪く、OOPでのDDDはReactに導入する場合は発生するコストやリスクを踏まえて導入を決めます。
 
 ReactはRe-renderingの仕組みがオブジェクトの場合、参照等価です。
 > ※参照先を確認中です。Shallow Equalとして認識しています。Deep Equalをしている場合、同一インスタンスでも変更があったプロパティをチェックした上で差分を検知できますが、パフォーマンス上ReactはShallow Equalを採用しています。
