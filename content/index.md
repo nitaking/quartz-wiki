@@ -12,7 +12,7 @@ Software Engineer、[[Photography]]やガジェットなどが趣味です。
 日々の記録や文章など。
 自己紹介については [Hey, I’m Satoshi](https://www.nitaking.dev/about/) をどうぞ。
 
-[[Notes/index | Knowledge]] <br />
+[[/index|Knowledge]] <br />
 Digital Gardenとして知識ベースの整理をしています。
 
 **Online** <br />
