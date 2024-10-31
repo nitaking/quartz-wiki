@@ -96,7 +96,7 @@ export function renderPage(
               {
                 type: "element",
                 tagName: "a",
-                properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+                properties: { href: inner.properties?.href, className: ["internal", "transclude-src"] },
                 children: [
                   { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
                 ],
@@ -139,7 +139,7 @@ export function renderPage(
             {
               type: "element",
               tagName: "a",
-              properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+              properties: { href: inner.properties?.href, className: ["internal", "transclude-src"] },
               children: [
                 { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
               ],
@@ -169,7 +169,7 @@ export function renderPage(
             {
               type: "element",
               tagName: "a",
-              properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+              properties: { href: inner.properties?.href, className: ["internal", "transclude-src"] },
               children: [
                 { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
               ],
@@ -197,7 +197,7 @@ export function renderPage(
   const Body = BodyConstructor()
 
   const LeftComponent = (
-    <div class="left sidebar">
+    <div className="left sidebar">
       {left.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
@@ -205,7 +205,7 @@ export function renderPage(
   )
 
   const RightComponent = (
-    <div class="right sidebar">
+    <div className="right sidebar">
       {right.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
@@ -217,17 +217,17 @@ export function renderPage(
     <html lang={lang}>
       <Head {...componentData} />
       <body data-slug={slug}>
-        <div id="quartz-root" class="page">
+        <div id="quartz-root" className="page">
           <Body {...componentData}>
             {LeftComponent}
-            <div class="center">
-              <div class="page-header">
+            <div className="">
+              <div className="page-header">
                 <Header {...componentData}>
                   {header.map((HeaderComponent) => (
                     <HeaderComponent {...componentData} />
                   ))}
                 </Header>
-                <div class="popover-hint">
+                <div className="popover-hint">
                   {beforeBody.map((BodyComponent) => (
                     <BodyComponent {...componentData} />
                   ))}
@@ -235,7 +235,7 @@ export function renderPage(
               </div>
               <Content {...componentData} />
               <hr />
-              <div class="page-footer">
+              <div className="page-footer">
                 {afterBody.map((BodyComponent) => (
                   <BodyComponent {...componentData} />
                 ))}
