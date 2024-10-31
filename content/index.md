@@ -4,8 +4,6 @@ tags:
   - "#evergreen"
 title: Satoshi Nitawaki
 ---
-## [Satoshi Nitawaki](https://nitaking.omg.lol/ ) 
-
 Software Engineer、[[Photography]]やガジェットなどが趣味です。
 
 [Blog](https://www.nitaking.dev)  <br />
@@ -16,7 +14,7 @@ Software Engineer、[[Photography]]やガジェットなどが趣味です。
 Digital Gardenとして知識ベースの整理をしています。
 
 **Online** <br />
-[Micro.blog](https://nitaking.micro.blog/) | [About](https://www.nitaking.dev/about/)  | [GitHub](https://github.com/nitaking)
+[Micro.blog](https://nitaking.micro.blog/) | [GitHub](https://github.com/nitaking) | [Omg.lol](https://nitaking.omg.lol/ )
 
 **Sitemap** <br />
 - [[Uses]]
