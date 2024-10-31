@@ -21,4 +21,6 @@ Digital Gardenとして知識ベースの整理をしています。
 **Sitemap** <br />
 - [[Uses]]
 - [[Photography]]
+- [[tags|Tags]]
+- [[Tech]]
 
