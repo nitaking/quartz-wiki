@@ -2,8 +2,54 @@
 
 // put your custom CSS here!
 ul.overflow,
-ol.overflow  {
+ol.overflow {
   max-height: 530px;
 }
 
 //$pageWidth: 630px;
+
+.folder-container {
+  & div > a {
+    font-size: 1rem;
+  }
+}
+
+.container {
+  padding: 0 32px 128px;
+}
+
+.recent-notes {
+  .internal {
+    font-size: 1rem;
+    opacity: 0.95;
+  }
+
+  & > ul.recent-ul {
+    margin-top: 1rem;
+
+    & > li {
+      margin: .25rem 0;
+
+      .section > .meta {
+        opacity: 0.6;
+        font-size: 0.8rem;
+      }
+    }
+  }
+}
+
+li.section-li > .section .meta {
+  font-size: .9rem;
+}
+
+// for Page List style
+li.section-li {
+  & > .section {
+    display: grid;
+    grid-template-columns: fit-content(8em) 3fr 1.75fr;
+
+    a.internal.tag-link {
+      font-size: .75rem;
+    }
+  }
+}

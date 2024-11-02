@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { SimpleSlug } from "./quartz/util/path"
 // import { GitHubFlavoredMarkdown } from "./quartz/plugins"
 
 // components shared across all pages
@@ -43,6 +44,15 @@ export const defaultContentPageLayout: PageLayout = {
         order: ["filter", "map", "sort"],
       }),
     ),
+
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Recent Notes",
+        limit: 2,
+        filter: (f) => f.slug!.startsWith("thoughts/"),
+        linkToMore: "thoughts/" as SimpleSlug,
+      }),
+    ),
   ],
   right: [
     Component.Graph(),
@@ -58,20 +68,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    // Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer(
-      Component.Explorer({
-        title: "Explorer", // title of the explorer component
-        folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-        // folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
-        // useSavedState: false, // whether to use local storage to save "state" (which folders are opened) of explorer
-        // Sort order: folders first, then files. Sort folders and files alphabetically
-        filterFn: (node) => node.name !== "tags", // filters out 'tags' folder
-        // mapFn: undefined,
-        // what order to apply functions in
-        order: ["filter", "map", "sort"],
-      }),
-    )),
   ],
   right: [],
 }

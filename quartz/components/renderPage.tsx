@@ -220,7 +220,7 @@ export function renderPage(
         <div id="quartz-root" className="page">
           <Body {...componentData}>
             {LeftComponent}
-            <div className="">
+            <div className="container">
               <div className="page-header">
                 <Header {...componentData}>
                   {header.map((HeaderComponent) => (

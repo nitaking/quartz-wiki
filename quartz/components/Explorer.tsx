@@ -10,13 +10,25 @@ import { i18n } from "../i18n"
 
 // Options interface defined in `ExplorerNode` to avoid circular dependency
 const defaultOptions = {
-  folderClickBehavior: "collapse",
-  folderDefaultState: "collapsed",
-  useSavedState: true,
+  showTitle: false,
+  folderDefaultState: "open",
+  folderClickBehavior: "link",
+  useSavedState: false,
   mapFn: (node) => {
     return node
   },
   sortFn: (a, b) => {
+    const customOrder = ["thoughts", "Books"];
+
+    // Custom sort for 'thought' and 'Books'
+    const indexA = customOrder.indexOf(a.displayName);
+    const indexB = customOrder.indexOf(b.displayName);
+
+    if (indexA !== -1 || indexB !== -1) {
+      // If either a or b is in the customOrder array
+      return indexA - indexB;
+    }
+
     // Sort order: folders first, then files. Sort folders and files alphabetically
     if ((!a.file && !b.file) || (a.file && b.file)) {
       // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
@@ -86,32 +98,32 @@ export default ((userOpts?: Partial<Options>) => {
 
     return (
       <div class={classNames(displayClass, "explorer")}>
-        <button
-          type="button"
-          id="explorer"
-          data-behavior={opts.folderClickBehavior}
-          data-collapsed={opts.folderDefaultState}
-          data-savestate={opts.useSavedState}
-          data-tree={jsonTree}
-          aria-controls="explorer-content"
-          aria-expanded={opts.folderDefaultState === "open"}
-        >
-          <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="14"
-            height="14"
-            viewBox="5 8 14 8"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            class="fold"
+          <button
+            type="button"
+            id="explorer"
+            data-behavior={opts.folderClickBehavior}
+            data-collapsed={opts.folderDefaultState}
+            data-savestate={opts.useSavedState}
+            data-tree={jsonTree}
+            aria-controls="explorer-content"
+            aria-expanded={opts.folderDefaultState === "open"}
           >
-            <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-        </button>
+            <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="14"
+              height="14"
+              viewBox="5 8 14 8"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              class="fold"
+            >
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
         <div id="explorer-content">
           <ul class="overflow" id="explorer-ul">
             <ExplorerNode node={fileTree} opts={opts} fileData={fileData} />
