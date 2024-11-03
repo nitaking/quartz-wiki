@@ -4,6 +4,7 @@ tags:
   - thoughts
   - list
   - seed
+  - digital_garden
 ---
 [[micro.blog]]を始めとした、IndieWebに興味を持つ内に、Digital Gardenというワードを知りました。
 ## History
