@@ -1,4 +1,4 @@
-![[photography-hero.jpeg]]
+![[photography-hero.jpeg | 500]]
 <br><i>Photo by <a href="https://glass.photo/nitaking">Satoshi Nitawaki</a> on <a href="https://glass.photo/nitaking/3WXz2eDN8v7nlixY4quSiU">Glass</a></i>
 
 昔から記録することが好きでした。印象的な思い出は、10歳くらいのときに実家にあるデジタルカメラで、夜ふかし後の朝日を撮ったことです。はじめて見た景色を残せることに興奮したことを覚えています。
