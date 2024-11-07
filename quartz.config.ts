@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "ja-JP",
     baseUrl: "wiki.nitaking.dev",
-    ignorePatterns: ["private", "templates", "Templates", "Excalidraw", ".obsidian"],
+    ignorePatterns: ["private", "templates", "Templates", "**/*.excalidraw.md", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
