@@ -13,12 +13,14 @@ tags:
 | [@radix-ui/react-slider](https://www.radix-ui.com/primitives/docs/components/slider#slider) | Slider                                                     |                                                                                                                                       |
 | https://github.com/ueberdosis/tiptap                                                        | ヘッドレスリッチテキストエディタ。                                          | [Tiptap - Dev Toolkit Editor Suite](https://tiptap.dev/)                                                                              |
 | [Resend](https://resend.com/home)                                                           | スパムメールにならないようにトランザクションメールとマーケティングメールを配信する仕組み               | [Resend - Product Information, Latest Updates, and Reviews 2024 \| Product Hunt](https://www.producthunt.com/products/resend/reviews) |
-## SaaS Service
+## Tools
 
-| Name    | UseCase          | Link                                                                                                                                |
-| ------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| webflow | Visualウェブサイトビルダー | [Webflow](https://webflow.com/)<br><br>e.g.: [Notion Second Brain](https://www.pathpages.com/products/notion-second-brain#included) |
-| framer  | Web Site Builder | https://www.framer.com/                                                                                                             |
+| Name    | UseCase                                                          | Link                                                                                                                                |
+| ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| webflow | Visualウェブサイトビルダー                                                 | [Webflow](https://webflow.com/)<br><br>e.g.: [Notion Second Brain](https://www.pathpages.com/products/notion-second-brain#included) |
+| framer  | Web Site Builder                                                 | https://www.framer.com/                                                                                                             |
+| carbon  | 🎨 Create and share beautiful images of your source code<br><br> | https://github.com/carbon-app/carbon                                                                                                |
+|         |                                                                  |                                                                                                                                     |
 ## AI Tools
 | Name        | UseCase                                  | Link                         |
 | ----------- | ---------------------------------------- | ---------------------------- |
