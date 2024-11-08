@@ -49,7 +49,7 @@ export const defaultContentPageLayout: PageLayout = {
       Component.RecentNotes({
         title: "Recent Notes",
         limit: 2,
-        // filter: (f) => f.slug!.startsWith("thoughts/"),
+        filter: (f) => f.slug!.startsWith("thoughts/"),
         linkToMore: "thoughts/" as SimpleSlug,
       }),
     ),
