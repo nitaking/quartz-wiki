@@ -57,8 +57,7 @@ tags:
 - TimeTree
 - Toggl
 - Spotify
-- Ghost with Pikapod
-- 
+- [[Ghost]] with Pikapod
 ### Trial
 - OFFLIGHT
 - Portal app
