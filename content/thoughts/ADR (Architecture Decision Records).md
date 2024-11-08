@@ -2,6 +2,8 @@
 tags:
   - seed
 ---
+# Template
+
 ```md
 # 1. ADR の記事のタイトル
 
@@ -35,3 +37,4 @@ proposed | rejected | accepted | deprecated | superseded by 記事リンク
 ### Source
 - https://zenn.dev/souppower/articles/bfdf79069ae9a7
 - https://adr.github.io/
+- [When Should I Write an Architecture Decision Record - Spotify Engineering : Spotify Engineering](https://engineering.atspotify.com/2020/04/when-should-i-write-an-architecture-decision-record/)
