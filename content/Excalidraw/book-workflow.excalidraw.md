@@ -49,7 +49,7 @@ Format Markdown
 Paste Quotes Markdown ^UmuqBOcI
 
 ## Embedded Files
-c3ff9e969cdcfa55aef31eb5fe1ccb82e749d3ff: [[Pasted Image 20241107231422_702.png]]
+c3ff9e969cdcfa55aef31eb5fe1ccb82e749d3ff: [[book-tracker-screenshot.png]]
 
 %%
 ## Drawing
