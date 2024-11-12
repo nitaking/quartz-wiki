@@ -2,6 +2,9 @@
 tags:
   - SaaS
   - paas
+aliases:
+  - fly
+  - flyio
 ---
 
 - 公式Doc: https://fly.io/
