@@ -7,7 +7,7 @@ tags:
 ---
 honoで`hono/client`を利用したRPCモードでのクライアント通信を実装していたところ、CORS対応にて調べた内容。
 
-#### hono: CORS設定
+#### [[hono]]: CORS設定
 
 > https://hono.dev/docs/middleware/builtin/cors
 
