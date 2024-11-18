@@ -13,7 +13,7 @@ DrizzleはSQLクエリビルダーなので、オブジェクトにマッピン�
 - [【Drizzle ORM】JOINした結果をマッピングして集計する](https://pote-chil.com/posts/drizzleorm-join-aggregate)
 - [Drizzle Team Community - Answer Overflow](https://www.answeroverflow.com/c/1043890932593987624)
 
-しかし、こちらはインメモリ処理をするため、実行速度が遅く、150件程度でレスポンスタイムが250ms程度となってしまった。ローカルホストでこれなので実用に耐えられず、断念。
+しかし、こちらはインメモリ処理をするため、実行速度が遅く、150件程度でレスポンスタイムが250ms程度となってしまった。ローカルでこれなので実用に耐えられず、断念。
 
 結局、Prismaで実装したところ、エラーなくレスポンスタイムも60ms程度に済んだ。
 
