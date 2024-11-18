@@ -12,20 +12,35 @@ honoで`hono/client`を利用したRPCモードでのクライアント通信を
 > https://hono.dev/docs/middleware/builtin/cors
 
 ```ts
-const authClient = hc<SomeType>("/api/auth/", {
-    headers: {} // You can already set headers!
-    credentials: "include",
-});
+app.use(
+	"*",
+	cors({
+		origin: "http://localhost:3000",
+		allowHeaders: [
+			"X-Custom-Header",
+			"Upgrade-Insecure-Requests",
+			"Content-Type",
+			"Authorization",
+		],
+		allowMethods: ["POST", "GET", "OPTIONS"],
+		maxAge: 600,
+		credentials: true,
+	}),
+);
 ```
 
 その場合のclientでは`init: {}`にてcredentials設定を行う。
 
-```ts
-const api = hc('api/auth', {
-  init: {
-    credentials: 'include',
-  },
-})
+```ts: client.ts
+const _client = hc<ApiType>("http://localhost:5001", {
+	headers: {
+		"Content-Type": "application/json",
+	},
+	init: {
+		credentials: "include",
+	},
+});
+
 ```
 
 > https://github.com/orgs/honojs/discussions/2291
