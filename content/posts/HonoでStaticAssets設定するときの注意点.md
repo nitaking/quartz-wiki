@@ -9,7 +9,7 @@ tags:
 // /src/index.ts
 
 const app = new Hono().basePath("/api");
-app.use("/static/*", serveStatic({ root: "./" }));
+app.use("/static/[]()*", serveStatic({ root: "./" }));
 ```
 
 ```bash
