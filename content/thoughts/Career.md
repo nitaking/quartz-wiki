@@ -10,3 +10,7 @@ tags:
 > https://q.livesense.co.jp/2024/05/07/
 
 
+---
+- [ソフトウェアエンジニアという人生の選択肢 | おそらくはそれさえも平凡な日々](https://songmu.jp/riji/entry/2024-11-25-software-engineer-as-a-career-option.html)
+	>もちろん、若い人の方が我々よりも優秀であるという事実はあるが、経験や[[結晶性知能]]で勝っている部分もある。
+
