@@ -7,6 +7,8 @@ tags:
   - digital_garden
 ---
 [[micro.blog]]を始めとした、IndieWebに興味を持つ内に、Digital Gardenというワードを知りました。
+
+関連ワード: Second Brain, Personal Wiki
 ## History
 - 2024-9: [[Obsidian]] でmarkdown管理し、[Quartz](https://github.com/jackyzha0/quartz)でコンテンツ展開
 - 2024-10: StyleとThemeやサイドバーのエコシステムをVitePressにしたかったところ、[[nolebase]]を発見し、移行を検討
@@ -56,6 +58,7 @@ tags:
 - [My workflow in writing and maintaining this wiki | Everything I Know](https://wiki.nikiv.dev/other/wiki-workflow)
 - [Digital garden inspirations - My second-brain](https://anthonyamar.fr/Digital+garden/Digital+garden+inspirations)
 
-## 実装したいこと
-- [ ] 手書きフォントの適用
-      https://jzhao.xyz/ のような手書きフォントの適用
+
+## Astro Digital Garden
+- https://stereobooster.com/posts/digital-garden-as-static-website/
+- [stereobooster/astro-digital-garden: Astro digital garden](https://github.com/stereobooster/astro-digital-garden)
