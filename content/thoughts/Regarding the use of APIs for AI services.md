@@ -68,3 +68,7 @@ Free Tierはない？？
 
 ## Note
 OpenAIもAnthropicも最初に5ドル以上の課金を求められう。
+
+## Cost Usage URL
+- Anthropic: https://console.anthropic.com/settings/cost
+- OpenAI: https://platform.openai.com/settings/organization/usage
