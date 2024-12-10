@@ -63,3 +63,8 @@ Citations:
 
 ---
 - https://www.perplexity.ai/search/aisahisunoapili-yong-niguan-si-drimV5_KRsCbDhg5kqR6nQ
+## About Free Tier
+Free Tierはない？？
+
+## Note
+OpenAIもAnthropicも最初に5ドル以上の課金を求められう。
