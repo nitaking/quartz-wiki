@@ -1,5 +1,4 @@
 ---
-tag: Book
 title: The Happiness Trap 2nd Edition
 author:
   - Russ Harris
