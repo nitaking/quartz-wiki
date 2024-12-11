@@ -3,7 +3,7 @@ tags:
   - workflow
   - knowledge
 ---
-![[knowledge_workflow.png]]
+![[knowledge_workflow_2.png]]
 
 Note:
 - [[PKM]]として[[Workflowy]]と[[Obsidian]]を利用。
