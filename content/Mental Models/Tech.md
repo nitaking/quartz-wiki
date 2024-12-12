@@ -1,6 +1,7 @@
 ---
 tags:
   - mental_model
+title: Tech
 ---
 
 # 技術におけるフレームワーク

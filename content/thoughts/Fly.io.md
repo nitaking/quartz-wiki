@@ -5,6 +5,7 @@ tags:
 aliases:
   - fly
   - flyio
+title: Fly.io
 ---
 
 - 公式Doc: https://fly.io/

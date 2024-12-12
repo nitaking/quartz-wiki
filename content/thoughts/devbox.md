@@ -2,6 +2,7 @@
 tags:
   - seed
   - technology
+title: devbox
 ---
 - https://www.thoughtworks.com/radar/tools/summary/devbox
 - [Devbox: Portable, Isolated Dev Environments](https://www.jetify.com/devbox/)

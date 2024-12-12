@@ -1,3 +1,6 @@
+---
+title: Photography
+---
 ![[photography-hero.jpeg | 500]]
 <br><i>Photo by <a href="https://glass.photo/nitaking">Satoshi Nitawaki</a> on <a href="https://glass.photo/nitaking/3WXz2eDN8v7nlixY4quSiU">Glass</a></i>
 

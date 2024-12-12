@@ -4,6 +4,7 @@ tags:
   - terminal
   - rust
   - seed
+title: Rio
 ---
 > [Meet Rio | Rio Terminal](https://raphamorim.io/rio/)
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - security
+title: Free Wi-Fi
 ---
 想定されるリスク
 1. DNSスプーフィング

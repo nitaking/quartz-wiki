@@ -1,6 +1,7 @@
 ---
 tags:
   - cheatsheet
+title: Block Selection
 ---
 keywords: 矩形選択
 # WebStorm (Intellij)

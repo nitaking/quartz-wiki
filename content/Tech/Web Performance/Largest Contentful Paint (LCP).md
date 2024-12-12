@@ -1,6 +1,7 @@
 ---
 tags:
   - seed
+title: Largest Contentful Paint (LCP)
 ---
 ユーザーがページ内にアクセスしてから、メインコンテンツを見ることができるようになるまでの時間。
 

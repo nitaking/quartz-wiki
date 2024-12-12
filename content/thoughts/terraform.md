@@ -2,6 +2,7 @@
 tags:
   - iaas
   - technology
+title: terraform
 ---
 y-ohgiさんによる [Terraformで構築するAWS](https://y-ohgi.com/introduction-terraform/) がわかりやすく、入門時に非常に参考にさせてもらいました。
 

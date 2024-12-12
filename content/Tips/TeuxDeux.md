@@ -3,6 +3,7 @@ tags:
   - productivity
   - planner
   - task
+title: TeuxDeux
 ---
 紙の手帳のような。シンプルで手帳を開いたら全てが目に入るようなUIと機能性を持ったデジタルツールです。
 

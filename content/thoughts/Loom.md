@@ -3,6 +3,7 @@ tags:
   - tool
   - seed
   - screen_recording
+title: Loom
 ---
 ビデオツール。 workflowy側がshareリンクに対応したらしく[^1]、注目。
 長らく利用している[CleanShot X](https://cleanshot.com/)はどうやら対応していないようで、特に不満もないのだが、比較検討の余地があるかもしれない。

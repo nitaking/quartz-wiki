@@ -2,6 +2,7 @@
 tags:
   - seed
   - paas
+title: supabase
 ---
 
 [Supabase vs Firebase](https://supabase.com/alternatives/supabase-vs-firebase)

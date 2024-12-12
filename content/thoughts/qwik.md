@@ -2,6 +2,7 @@
 tags:
   - web_framework
   - seed
+title: qwik
 ---
 ## Concept
 

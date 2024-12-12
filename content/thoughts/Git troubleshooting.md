@@ -1,6 +1,7 @@
 ---
 tags:
   - troubleshooting
+title: Git troubleshooting
 ---
 # RPC failed; HTTP 400 curl 22 The requested URL returned error: 400 send-pack: unexpected 
 

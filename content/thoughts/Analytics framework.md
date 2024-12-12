@@ -2,6 +2,7 @@
 tags:
   - tool
   - analytics
+title: Analytics framework
 ---
 
 **現在使用しているもの**

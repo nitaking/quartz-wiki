@@ -4,6 +4,7 @@ tags:
   - cli
   - rust
   - seed
+title: Warp
 ---
 > [Warp: Your terminal, reimagined](https://www.warp.dev/)
 

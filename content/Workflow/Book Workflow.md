@@ -1,6 +1,7 @@
 ---
 tags:
   - workflow
+title: Book Workflow
 ---
 ![[book-workflow.excalidraw.png]]
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - favorites
+title: Favorites Books
 ---
  
 - [[シンプルを極める]]

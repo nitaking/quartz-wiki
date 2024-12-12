@@ -1,6 +1,7 @@
 ---
 tags:
   - seed
+title: RSS
 ---
 
 - RSSリーダー

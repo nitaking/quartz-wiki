@@ -1,6 +1,7 @@
 ---
 tags:
   - photography
+title: Photomator
 ---
 現在利用しているPhotographyワークフロー。
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - cheatsheet
+title: Git Cheatsheet
 ---
 ## Refresh change to .gitignore
 

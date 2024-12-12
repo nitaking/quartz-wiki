@@ -1,7 +1,7 @@
 ---
 tags:
   - mental_model
-
+title: Life
 ---
 # 人生におけるフレームワーク
 意思決定のフレームワーク。

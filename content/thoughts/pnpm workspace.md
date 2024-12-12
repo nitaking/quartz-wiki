@@ -2,6 +2,7 @@
 tags:
   - seed
   - monorepo
+title: pnpm workspace
 ---
 - lerna
 - pnpm workspace

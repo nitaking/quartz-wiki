@@ -2,6 +2,7 @@
 tags:
   - tool
   - draw
+title: Draw Tool
 ---
 手書き風、READMEにアーキテクチャを示したい場合は [[Excalidraw]]、
 社内のモデリング図作成ツールとしては [[Draw Tool#eraser.io]] を使うのがMy Workflow。

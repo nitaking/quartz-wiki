@@ -2,6 +2,7 @@
 tags:
   - SaaS
   - seed
+title: Appwrite
 ---
 Alternative firebase, supabase. 
 

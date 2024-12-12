@@ -5,6 +5,7 @@ tags:
   - list
   - seed
   - digital_garden
+title: Digital Garden
 ---
 [[micro.blog]]を始めとした、IndieWebに興味を持つ内に、Digital Gardenというワードを知りました。
 

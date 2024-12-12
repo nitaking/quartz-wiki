@@ -2,6 +2,7 @@
 tags:
   - posts
   - hono
+title: HonoでStaticAssets設定するときの注意点
 ---
 [[hono]]で [Serve static files​](https://hono.dev/docs/getting-started/nodejs#serve-static-files) を参照して設定していたところ、少しハマっていたのでメモ。
 

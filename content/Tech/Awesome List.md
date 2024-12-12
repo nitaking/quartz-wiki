@@ -1,6 +1,7 @@
 ---
 tags:
   - list
+title: Awesome List
 ---
 ## Technology
 

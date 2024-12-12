@@ -2,6 +2,7 @@
 tags:
   - workflow
   - knowledge
+title: Knowledge Workflow
 ---
 ![[knowledge_workflow_2.png]]
 

@@ -1,8 +1,9 @@
 ---
 tags:
   - seed
-aliases: 
-keywords: カテトラル効果, 大聖堂効果
+aliases: null
+keywords: 'カテトラル効果, 大聖堂効果'
+title: Cathedral Effect
 ---
 天井の高さが思考プロセスに影響するというもの。
 

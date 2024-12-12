@@ -1,6 +1,7 @@
 ---
 tags:
   - seed
+title: Card Table
 ---
 BaseCampが提供する機能に近い。よりBaseCampの機能と調和させることで従来のKanbanとは異なる体験と価値を生み出す。
 

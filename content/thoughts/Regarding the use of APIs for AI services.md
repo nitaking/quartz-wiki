@@ -1,6 +1,7 @@
 ---
 aliases:
   - AIサービスのAPI利用に関して
+title: Regarding the use of APIs for AI services
 ---
 OpenAIとClaudeのAPIを利用する際の主な特徴と手順を以下にまとめます。
 

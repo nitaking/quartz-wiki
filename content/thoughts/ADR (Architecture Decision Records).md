@@ -1,6 +1,7 @@
 ---
 tags:
   - seed
+title: ADR (Architecture Decision Records)
 ---
 # Template
 

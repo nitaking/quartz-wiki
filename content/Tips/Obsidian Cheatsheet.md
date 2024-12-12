@@ -3,6 +3,7 @@ tags:
   - cheatsheet
   - obsidian
   - tips
+title: Obsidian Cheatsheet
 ---
 関連: [[Obsidian]]
 ## Edit Properties

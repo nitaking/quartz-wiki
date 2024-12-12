@@ -1,6 +1,7 @@
 ---
 tags:
   - collection
+title: Navigation Animation
 ---
 ## [ワクワクおやつの定期便　おやつ体験BOX snaq.me](https://snaq.me/)
 ![[snaq_me_navigation.mp4]]

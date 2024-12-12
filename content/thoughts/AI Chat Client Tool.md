@@ -1,6 +1,7 @@
 ---
 tags:
   - productivity
+title: AI Chat Client Tool
 ---
 ::: info 
 主にAPI経由でChatGPTなどを使う際に検討されるクライアントツールを挙げると思います。

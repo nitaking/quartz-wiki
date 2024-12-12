@@ -1,6 +1,7 @@
 ---
 tags:
   - seed
+title: DB・Table設計
 ---
 
 - PostgreSQLの場合、PKやidは`UUID`を設定する

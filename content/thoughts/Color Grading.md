@@ -2,6 +2,7 @@
 tags:
   - movie
   - seed
+title: Color Grading
 ---
 
 

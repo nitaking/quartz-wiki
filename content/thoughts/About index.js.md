@@ -2,6 +2,7 @@
 tags:
   - node
   - seed
+title: About index.js
 ---
 Node.jsの作者はindex.jsの仕組みを後悔している。
 

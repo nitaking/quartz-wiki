@@ -3,6 +3,7 @@ tags:
   - cli
   - rust
   - seed
+title: mise
 ---
 # Migrate `asdf` to mise
 

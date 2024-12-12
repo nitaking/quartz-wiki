@@ -4,6 +4,7 @@ tags:
   - 意思決定
   - decide
   - life
+title: WRAP Model method
 ---
 also see: [[決定力!]]
 

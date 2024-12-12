@@ -3,6 +3,7 @@ tags:
   - tool
   - productivity
   - wiki
+title: Slab
 ---
 [Slab - Knowledge Base & Wiki Software](https://slab.com/)
 

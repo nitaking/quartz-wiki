@@ -2,6 +2,7 @@
 tags:
   - node
   - cli
+title: version manager
 ---
 いままでは[[asdf]]を利用していたが、
 - goで利用しにくい

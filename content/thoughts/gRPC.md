@@ -3,6 +3,7 @@ tags:
   - technology
   - grpc
   - protobuf
+title: gRPC
 ---
 ## gRPC / protobuf
 gPRCは [protobuf](https://github.com/protocolbuffers/protobuf) を利用しており、効率的なデータシリアライゼーションを可能にしている。

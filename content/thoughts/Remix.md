@@ -2,6 +2,7 @@
 tags:
   - seed
   - web_framework
+title: Remix
 ---
 
 - [Remix Resource Page]([Remix Resources](https://remix.run/resources?category=templates))でスターターパックが豊富で

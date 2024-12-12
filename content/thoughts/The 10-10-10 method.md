@@ -3,6 +3,7 @@ tags:
   - method
   - 意思決定
   - decide
+title: The 10-10-10 method
 ---
 also see: [[決定力!]]
 

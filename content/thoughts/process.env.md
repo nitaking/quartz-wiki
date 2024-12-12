@@ -2,6 +2,7 @@
 tags:
   - seed
   - typescript
+title: process.env
 ---
 ## process.envを利用した際の型定義とアクセス
 

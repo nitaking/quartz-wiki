@@ -3,6 +3,7 @@ tags:
   - tool
   - productivity
   - SaaS
+title: Height
 ---
 [wiki.nikiv.dev](https://wiki.nikiv.dev/focusing/)にて *"[Height](https://height.app/) as way to prioritize life and other projects"* と紹介されていたのを見て、個人のプロジェクト管理に利用を始めました。
 v2はwashlist状態だったが、v1は利用可能になっている。（2024-09-16 現在）

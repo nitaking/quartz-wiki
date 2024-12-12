@@ -1,6 +1,7 @@
 ---
 tags:
   - productivity
+title: Browser Extension List
 ---
 
 | Name                                                                                                 | 用途                             |

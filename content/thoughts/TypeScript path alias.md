@@ -2,6 +2,7 @@
 tags:
   - typescript
   - seed
+title: TypeScript path alias
 ---
 ## TypeScriptで `@/xx`でアクセスする
 

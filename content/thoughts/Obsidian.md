@@ -6,6 +6,7 @@ tags:
   - markdown
   - obsidian
   - PKM
+title: Obsidian
 ---
 ## obsidian-omnivore
 ### Notesが取得されない

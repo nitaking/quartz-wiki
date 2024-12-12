@@ -2,6 +2,7 @@
 tags:
   - thoughts
   - philosophy
+title: Multipotentialite
 ---
 [[クリエイティブプログラマー]] p.184
 - 複数の天職

@@ -2,6 +2,7 @@
 tags:
   - role
   - career
+title: Engineering Manager
 ---
 - チームマネージャーだが他の役割をカバーする
 - チームのピンチヒッター

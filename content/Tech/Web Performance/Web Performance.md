@@ -2,6 +2,7 @@
 tags:
   - performance
   - document
+title: Web Performance
 ---
 WEBのパフォーマンスに関する知識として、[web.dev](https://web.dev/?hl=ja)に掲載されている [Fast load times](https://web.dev/explore/fast) を読めば良いと思う。
 

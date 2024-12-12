@@ -3,6 +3,7 @@ tags:
   - tool
   - draw
   - seed
+title: Excalidraw
 ---
 https://excalidraw.com/
 

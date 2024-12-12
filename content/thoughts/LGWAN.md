@@ -1,6 +1,7 @@
 ---
 tags:
   - seed
+title: LGWAN
 ---
 総合行政ネットワーク（Local Government Wide Area Network：LGWAN）
 行政専用ネットワーク。

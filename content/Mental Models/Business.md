@@ -1,6 +1,7 @@
 ---
 tags:
   - mental_model
+title: Business
 ---
 
 # 仕事におけるフレームワーク

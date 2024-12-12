@@ -2,6 +2,7 @@
 tags:
   - SasS
   - seed
+title: batonn
 ---
 [batonn - 最高のバトンタッチでいい人を逃さない](https://batonn.io/)
 

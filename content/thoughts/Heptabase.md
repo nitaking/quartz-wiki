@@ -3,6 +3,7 @@ tags:
   - PKM
   - tool
   - SaaS
+title: Heptabase
 ---
 
 以前使用していた [[tags/PKM]] ツール。

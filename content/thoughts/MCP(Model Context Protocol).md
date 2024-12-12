@@ -3,6 +3,7 @@ tags:
   - seed
   - claude
   - generative_ai
+title: Claude MCP
 ---
 
 ## 概要

@@ -3,6 +3,7 @@ tags:
   - iosapp
   - macapp
   - seed
+title: Book Tracker
 ---
 
 読書トラッカー。Goodreadsなどの代替。

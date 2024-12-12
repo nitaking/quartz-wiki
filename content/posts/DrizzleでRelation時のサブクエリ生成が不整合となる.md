@@ -3,6 +3,7 @@ tags:
   - seed
   - orm
   - drizzle
+title: DrizzleでRelation時のサブクエリ生成が不整合となる
 ---
 DrizzleはSQLクエリビルダーなので、オブジェクトにマッピングされない。flatにクエリ出力される。（SQLと同じだ）
 

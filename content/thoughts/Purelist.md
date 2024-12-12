@@ -5,6 +5,7 @@ tags:
   - productivity
   - note
   - seed
+title: Purelist
 ---
 - [Purelist](https://purelist.com/)
 

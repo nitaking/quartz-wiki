@@ -4,6 +4,7 @@ tags:
   - rpc
   - hono
   - cors
+title: hono_clientでCORS対応をする
 ---
 honoで`hono/client`を利用したRPCモードでのクライアント通信を実装していたところ、CORS対応にて調べた内容。
 

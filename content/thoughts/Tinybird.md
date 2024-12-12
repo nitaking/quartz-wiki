@@ -1,6 +1,7 @@
 ---
 tags:
   - analytics
+title: Tinybird
 ---
 
 

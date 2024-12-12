@@ -2,6 +2,7 @@
 tags:
   - seed
   - blog
+title: Ghost
 ---
 現在、`https://www.nitaking.dev`は [[Ghost]] with Pikapod で構成している。
 

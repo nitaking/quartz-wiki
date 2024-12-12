@@ -3,6 +3,7 @@ tags:
   - game
   - effects
   - board_game
+title: Psychological effects of games
 ---
 - [ゲームをプレイすることが脳活動や意志決定能力を強化するという研究結果 - GIGAZINE](https://gigazine.net/news/20220712-game-player-enhance-brain-activity/)
 	> 「ゲームをプレイすることが、意思決定能力を向上させるために、感覚・知覚・行動へのマッピングのサブプロセスのいくつかを潜在的に強化することを示している」

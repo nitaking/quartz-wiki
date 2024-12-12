@@ -3,6 +3,7 @@ tags:
   - productivity
   - seed
   - planner
+title: Daily Planner
 ---
 ## Daily Plannerとは
 > デイリープランナーアプリは、日々のタスクやスケジュールを効率的に管理するためのツールです。これらのアプリは、個人の生産性を向上させるために設計されており、さまざまな機能を提供しています。

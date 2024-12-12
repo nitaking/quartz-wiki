@@ -3,6 +3,7 @@ tags:
   - photography
   - camera
   - seed
+title: FUJIFILM
 ---
 - [FUJIFILM X Appのリサイズはオンにするべきか](https://www.nitaking.dev/fujifilm-x-app-resize-report/)
 - [Fine VS Normal detail ? | FujiX-Forum](https://www.fujix-forum.com/threads/fine-vs-normal-detail.42692/)

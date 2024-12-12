@@ -4,6 +4,7 @@ tags:
   - seed
   - PKM
   - degital_garden
+title: quartz
 ---
 
 

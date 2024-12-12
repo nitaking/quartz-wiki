@@ -1,6 +1,7 @@
 ---
 tags:
   - list
+title: Uses
 ---
 
 > [Do you have a "uses" page?](https://dev.to/nickytonline/do-you-have-a-uses-page-5b82)

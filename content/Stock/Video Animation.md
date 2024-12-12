@@ -1,6 +1,7 @@
 ---
 tags:
   - collection
+title: Video Animation
 ---
 ## [Story & Promise | おやつ体験BOX snaq.me](https://snaq.me/story-promise/)
 
